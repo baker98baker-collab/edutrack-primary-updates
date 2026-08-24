@@ -1,0 +1,26 @@
+# Secrets
+.env
+tokens.json
+
+# Runtime artifacts
+output/
+state/
+tmp/
+*.log
+
+# User-provided recitation audio (add your own; keep them out of git by default)
+assets/recitations/*.mp3
+assets/recitations/*.m4a
+assets/recitations/*.wav
+
+# Font binaries (download separately; licenses vary)
+assets/fonts/*.ttf
+assets/fonts/*.otf
+assets/fonts/*.ttc
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/

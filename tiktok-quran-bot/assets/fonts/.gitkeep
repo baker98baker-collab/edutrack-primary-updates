@@ -1,0 +1,10 @@
+Place an Arabic OpenType/TrueType font here (e.g. Amiri or Scheherazade New,
+both SIL Open Font License). The font's internal family name must match
+`subtitles.font_name` in your config.json (default: "Amiri").
+
+Download:
+  - Amiri:              https://github.com/alif-type/amiri/releases
+  - Scheherazade New:   https://software.sil.org/scheherazade/
+
+Font binaries are gitignored by default (licenses vary) — commit yours only if
+its license permits redistribution.

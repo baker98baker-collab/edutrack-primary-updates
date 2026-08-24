@@ -1,0 +1,49 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_bitrate": "6M",
+    "audio_bitrate": "192k"
+  },
+  "duration": {
+    "target_seconds": 15,
+    "max_seconds": 20
+  },
+  "stock": {
+    "providers": ["pexels", "pixabay"],
+    "query_terms": [
+      "nature",
+      "forest",
+      "ocean waves",
+      "mountains",
+      "clouds sky",
+      "rain",
+      "river",
+      "sunset",
+      "green leaves",
+      "desert"
+    ],
+    "min_width": 1080,
+    "results_per_query": 20
+  },
+  "recitation": {
+    "selection_mode": "random_no_repeat"
+  },
+  "subtitles": {
+    "font_name": "Amiri",
+    "font_size": 64,
+    "primary_color_hex": "FFFFFF",
+    "outline_color_hex": "000000",
+    "outline": 3,
+    "shadow": 1,
+    "alignment": 2,
+    "margin_v": 220,
+    "margin_h": 80
+  },
+  "tiktok": {
+    "publish_mode": "inbox",
+    "poll_timeout_seconds": 120,
+    "poll_interval_seconds": 5
+  }
+}

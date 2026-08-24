@@ -1,0 +1,6 @@
+# Runtime dependencies for the daily TikTok Qur'an bot.
+# System prerequisites (NOT installed via pip): ffmpeg + ffprobe, built with
+# libass/HarfBuzz/FriBidi so Arabic subtitles shape and join correctly.
+
+requests>=2.31,<3
+python-dotenv>=1.0,<2
