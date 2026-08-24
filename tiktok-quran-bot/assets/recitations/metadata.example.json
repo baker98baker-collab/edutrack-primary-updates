@@ -1,0 +1,26 @@
+{
+  "_comment": "Copy this file to metadata.json and replace every placeholder with YOUR hand-verified content. Do not commit real audio unless its usage rights allow it. The placeholder text below is intentionally NOT scripture.",
+  "recitations": [
+    {
+      "id": "example-001",
+      "file": "example-001.mp3",
+      "reciter": "Reciter name (your record)",
+      "surah": "Surah name (your record)",
+      "ayah_range": "1-3",
+      "text_ar": "ضع هنا نص الآية العربي الموثّق يدويًا — هذا مجرد نص بديل",
+      "segments": [
+        { "start": 0.0, "end": 4.5, "text_ar": "المقطع الأول (اختياري، للترجمة المتزامنة)" },
+        { "start": 4.5, "end": 9.0, "text_ar": "المقطع الثاني" }
+      ]
+    },
+    {
+      "id": "example-002",
+      "file": "example-002.mp3",
+      "reciter": "Reciter name (your record)",
+      "surah": "Surah name (your record)",
+      "ayah_range": "255",
+      "text_ar": "ضع هنا نص آية موثّق — بدون مقاطع سيظهر النص كاملًا طوال المقطع",
+      "segments": []
+    }
+  ]
+}
