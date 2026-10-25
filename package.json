@@ -1,6 +1,6 @@
 {
   "name": "school-app-primary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "إيدوتراك — المدارس الابتدائية",
   "main": "main.js",
   "scripts": {
