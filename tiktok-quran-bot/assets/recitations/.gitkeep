@@ -1,0 +1,10 @@
+Put your pre-verified recitation audio files (.mp3) in this folder, and describe
+each one in `metadata.json` (see metadata.example.json for the schema).
+
+AMANAH / TRUST: The Qur'anic text and audio are prepared and verified by YOU,
+by hand. This program never generates, edits, fetches, or transliterates any
+Qur'anic text or audio — it only reads what you place here. Any entry missing
+its audio file or its verified `text_ar` is skipped, never posted.
+
+Audio files are gitignored by default. Copy metadata.example.json to
+metadata.json and fill it with your verified content.
